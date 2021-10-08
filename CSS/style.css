@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(221, 133, 2);
+}
+table{
+    width: 100%;
+    background-color: green;
+    text-align: center;
+}
+
+.l-des{
+    background-color: rgb(38, 243, 226);
+}
+
+.nombre{
+    color: white;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.grande{
+    font-size: 150%;
+}
+
+.fuentec{
+    font-family: 'Courier New', Courier, monospace;
+}
+.aligiz{
+    text-align: left;
+}
+
+.aligde{
+    text-align: right;
+}
